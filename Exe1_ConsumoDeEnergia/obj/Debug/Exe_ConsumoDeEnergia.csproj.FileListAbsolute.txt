@@ -1,0 +1,10 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\bin\Debug\Exe_ConsumoDeEnergia.exe.config
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\bin\Debug\Exe_ConsumoDeEnergia.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\bin\Debug\Exe_ConsumoDeEnergia.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.frmConsumoEnergia_V1.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.Properties.Resources.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.csproj.GenerateResource.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe_ConsumoDeEnergia\obj\Debug\Exe_ConsumoDeEnergia.pdb

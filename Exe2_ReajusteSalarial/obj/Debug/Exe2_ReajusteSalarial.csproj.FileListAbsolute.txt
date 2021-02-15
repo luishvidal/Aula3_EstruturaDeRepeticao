@@ -1,0 +1,10 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\bin\Debug\Exe2_ReajusteSalarial.exe.config
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\bin\Debug\Exe2_ReajusteSalarial.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\bin\Debug\Exe2_ReajusteSalarial.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.frmReajusteSalarial.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.Properties.Resources.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.csproj.GenerateResource.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe2_ReajusteSalarial\obj\Debug\Exe2_ReajusteSalarial.pdb

@@ -1,0 +1,10 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\bin\Debug\Exe3_ListaFuncionarios.exe.config
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\bin\Debug\Exe3_ListaFuncionarios.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\bin\Debug\Exe3_ListaFuncionarios.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.frmListaFuncionarios_V1.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.Properties.Resources.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.csproj.GenerateResource.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula3_EstruturaRepeticao\Exe3_ListaFuncionarios\obj\Debug\Exe3_ListaFuncionarios.pdb
